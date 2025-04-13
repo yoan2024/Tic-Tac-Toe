@@ -66,6 +66,7 @@ const useTicTacToe = () => {
 
   function ReiniciarJuego() {
     setGanador(null);
+    setTabla(Array(9).fill(null));
   }
 
   return {
