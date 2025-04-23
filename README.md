@@ -13,6 +13,5 @@ Tic Tac Toe clasico, hecha con react, css
 
 
 #mirar projecto
-
-https:/https://tic-tac-toe-sandy-eight.vercel.app/
+https://tic-tac-toe-sandy-eight.vercel.app/
 
